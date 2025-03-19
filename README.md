@@ -15,7 +15,12 @@ This program takes a message and a custom key to perform encryption and decrypti
 - ✔ Uses modulo arithmetic to wrap around the alphabet
 
 ## 🛠 Installation
-
+- 1️⃣ Clone the repository
+  git clone https://github.com/daffapramata/scpy-first-cipher.git
+- 2️⃣ Navigate into the directory
+  cd scpy-first-cipher
+- 3️⃣ Run the script
+  python vigenere.py
 
 ## 📝 Code Explanation
 🔹 Functions
