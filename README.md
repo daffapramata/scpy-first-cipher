@@ -16,10 +16,13 @@ This program takes a message and a custom key to perform encryption and decrypti
 
 ## 🛠 Installation
 - 1️⃣ Clone the repository
+  ```bash
   git clone https://github.com/daffapramata/scpy-first-cipher.git
 - 2️⃣ Navigate into the directory
+  ```bash
   cd scpy-first-cipher
 - 3️⃣ Run the script
+  ```bash
   python vigenere.py
 
 ## 📝 Code Explanation
